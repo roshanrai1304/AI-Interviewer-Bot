@@ -1,0 +1,10 @@
+fastapi==0.109.2
+uvicorn==0.27.1
+python-dotenv==1.0.0 
+google-cloud-texttospeech
+google-cloud-speech
+langchain
+langchain-google-genai
+google-generativeai
+pypdf
+dataclasses; python_version < "3.7"
